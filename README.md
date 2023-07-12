@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=@DanArcherOnline&fontSize=50&fontColor=00F78D&desc=SECURITY%20ENGINEER&&fontAlignY=40&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=@DanArcherOnline&fontSize=50&fontColor=00F78D&desc=SECURITY%20ENGINEER&&fontAlignY=40&descAlignY=55&animation=fadeIn)
 <!--https://github.com/kyechan99/capsule-render-->
 ### Hey! Thanks for popping by <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br/>
